@@ -9,6 +9,8 @@ function App() {
         <p>
           React Core Concepts
         </p>
+        <p>hello world</p>
+        <h1>this is a heading typed in react application</h1>
       </header>
     </div>
   );
